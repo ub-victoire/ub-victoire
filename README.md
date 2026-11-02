@@ -106,7 +106,6 @@ Developed and delivered:
 * DockSight
 * **ect** 
 
-
 ---
 
 ## 🎓 Certifications & Learning
